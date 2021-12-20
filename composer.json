@@ -1,0 +1,8 @@
+{
+    "name": "spotify-premium-accounts/spotify-premium-accounts",
+    "description": "Link Below for Spotify Premium Accounts >>>",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
